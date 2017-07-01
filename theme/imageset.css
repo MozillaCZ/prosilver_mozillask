@@ -1,0 +1,7 @@
+/* Global imageset items */
+.site_logo {
+    background-image: url("./images/site_logo.png");
+    width: 725px;
+    height: 62px;
+}
+
